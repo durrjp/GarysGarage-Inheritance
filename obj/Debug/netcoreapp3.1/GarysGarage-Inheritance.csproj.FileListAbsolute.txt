@@ -1,0 +1,13 @@
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.exe
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.deps.json
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.runtimeconfig.json
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.runtimeconfig.dev.json
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.dll
+C:\Users\durrj\workspace\GarysGarage-Inheritance\bin\Debug\netcoreapp3.1\GarysGarage-Inheritance.pdb
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.csprojAssemblyReference.cache
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.AssemblyInfoInputs.cache
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.AssemblyInfo.cs
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.dll
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.pdb
+C:\Users\durrj\workspace\GarysGarage-Inheritance\obj\Debug\netcoreapp3.1\GarysGarage-Inheritance.genruntimeconfig.cache
